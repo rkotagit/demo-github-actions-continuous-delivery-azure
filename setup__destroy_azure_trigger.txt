@@ -1,1 +1,2 @@
 Set up Azure - 3/13/21 : 11:40
+Destroy Azure - 3/13/21 : 12:42
